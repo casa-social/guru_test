@@ -59,10 +59,6 @@ Run this command.
    /static/png/abc.png  
    It is not reasonable way, so I had to do hard-coding.
 
-## Author
-
-Deris
-
 ## Thanks
 
 This coding challenge was a bit difficult and tricy.  

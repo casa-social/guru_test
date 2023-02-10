@@ -1,0 +1,157 @@
+//heroes
+{
+    "data": [
+        {
+            "id": "00732171-26c3-4f1f-b507-528742eae58f",
+            "fullName": "Sluggard",
+            "avatarUrl": "/static/sluggard.png",
+            "description": "Lorem ipsum",
+            "typeId": "741d805e-5c23-4fe3-a8b9-300a633e89d1",
+            "type": {
+                "id": "741d805e-5c23-4fe3-a8b9-300a633e89d1",
+                "name": "Animal"
+            }
+        },
+        {
+            "id": "0e57ccd9-2691-4440-a1ce-7f66e7ed3b6d",
+            "fullName": "Harley Quinn",
+            "avatarUrl": "/static/harley_queen.png",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse ullamcorper aliquet porttitor.",
+            "typeId": "e8cfc79b-7139-4275-8b54-79d62478893d",
+            "type": {
+                "id": "e8cfc79b-7139-4275-8b54-79d62478893d",
+                "name": "Human"
+            }
+        },
+        {
+            "id": "0e5bd9fe-2bf4-4039-9ba3-f9b60b54cd61",
+            "fullName": "Cool Sheep",
+            "avatarUrl": "/static/sheep.png",
+            "description": "Lorem ipsum",
+            "typeId": "741d805e-5c23-4fe3-a8b9-300a633e89d1",
+            "type": {
+                "id": "741d805e-5c23-4fe3-a8b9-300a633e89d1",
+                "name": "Animal"
+            }
+        },
+        {
+            "id": "155b3a16-cada-4e8d-b230-43cb58d31622",
+            "fullName": "Donald Trump",
+            "avatarUrl": "/static/trump.png",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse ullamcorper aliquet porttitor.",
+            "typeId": "e8cfc79b-7139-4275-8b54-79d62478893d",
+            "type": {
+                "id": "e8cfc79b-7139-4275-8b54-79d62478893d",
+                "name": "Human"
+            }
+        },
+        {
+            "id": "276babd4-8f7c-41ca-ad82-4f73d66c4b74",
+            "fullName": "The Avocado",
+            "avatarUrl": "/static/avocado.png",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse ullamcorper aliquet porttitor.",
+            "typeId": "708c99c2-b48e-43d9-9a9b-f937a6fbb361",
+            "type": {
+                "id": "708c99c2-b48e-43d9-9a9b-f937a6fbb361",
+                "name": "Plant"
+            }
+        },
+        {
+            "id": "55956af5-37e0-45e3-a7f7-a9230d1483d7",
+            "fullName": "UFO",
+            "avatarUrl": "/static/ufo.png",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse ullamcorper aliquet porttitor.",
+            "typeId": "7b328a5c-7192-43bb-8ad3-ed414f33a80e",
+            "type": {
+                "id": "7b328a5c-7192-43bb-8ad3-ed414f33a80e",
+                "name": "Other"
+            }
+        },
+        {
+            "id": "71c3c38e-f0fe-437f-8e71-5b6d74ac1e32",
+            "fullName": "Albert Einstain",
+            "avatarUrl": "/static/einstein.png",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse ullamcorper aliquet porttitor.",
+            "typeId": "e8cfc79b-7139-4275-8b54-79d62478893d",
+            "type": {
+                "id": "e8cfc79b-7139-4275-8b54-79d62478893d",
+                "name": "Human"
+            }
+        },
+        {
+            "id": "7e2faf34-f986-4b55-81a0-491ec6fa2be5",
+            "fullName": "The Cactus",
+            "avatarUrl": "/static/cactus.png",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse ullamcorper aliquet porttitor.",
+            "typeId": "708c99c2-b48e-43d9-9a9b-f937a6fbb361",
+            "type": {
+                "id": "708c99c2-b48e-43d9-9a9b-f937a6fbb361",
+                "name": "Plant"
+            }
+        },
+        {
+            "id": "89a59ad4-b2a2-46b6-80eb-a4f0d21b3d7e",
+            "fullName": "Wrestler",
+            "avatarUrl": "/static/wrestler.png",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse ullamcorper aliquet porttitor.",
+            "typeId": "e8cfc79b-7139-4275-8b54-79d62478893d",
+            "type": {
+                "id": "e8cfc79b-7139-4275-8b54-79d62478893d",
+                "name": "Human"
+            }
+        },
+        {
+            "id": "e3e70f17-4aa5-4da7-9758-e7a48a13e9bc",
+            "fullName": "Batman",
+            "avatarUrl": "/static/batman.png",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse ullamcorper aliquet porttitor.",
+            "typeId": "e8cfc79b-7139-4275-8b54-79d62478893d",
+            "type": {
+                "id": "e8cfc79b-7139-4275-8b54-79d62478893d",
+                "name": "Human"
+            }
+        },
+        {
+            "id": "ead60faf-62c7-423a-bb67-a6259029affd",
+            "fullName": "Ozzy",
+            "avatarUrl": "/static/ozzy.png",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse ullamcorper aliquet porttitor.",
+            "typeId": "e8cfc79b-7139-4275-8b54-79d62478893d",
+            "type": {
+                "id": "e8cfc79b-7139-4275-8b54-79d62478893d",
+                "name": "Human"
+            }
+        },
+        {
+            "id": "f2f7b432-b7ea-4fd9-bf43-2632c1cb3b2d",
+            "fullName": "Shelba",
+            "avatarUrl": "/static/spider.png",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse ullamcorper aliquet porttitor.",
+            "typeId": "7b328a5c-7192-43bb-8ad3-ed414f33a80e",
+            "type": {
+                "id": "7b328a5c-7192-43bb-8ad3-ed414f33a80e",
+                "name": "Other"
+            }
+        }
+    ],
+    "totalCount": 12
+}
+// types
+[
+    {
+        "id": "708c99c2-b48e-43d9-9a9b-f937a6fbb361",
+        "name": "Plant"
+    },
+    {
+        "id": "741d805e-5c23-4fe3-a8b9-300a633e89d1",
+        "name": "Animal"
+    },
+    {
+        "id": "7b328a5c-7192-43bb-8ad3-ed414f33a80e",
+        "name": "Other"
+    },
+    {
+        "id": "e8cfc79b-7139-4275-8b54-79d62478893d",
+        "name": "Human"
+    }
+]

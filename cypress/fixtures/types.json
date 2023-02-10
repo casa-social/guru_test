@@ -1,0 +1,20 @@
+{
+  "types":[
+    {
+        "id": "708c99c2-b48e-43d9-9a9b-f937a6fbb361",
+        "name": "Plant"
+    },
+    {
+        "id": "741d805e-5c23-4fe3-a8b9-300a633e89d1",
+        "name": "Animal"
+    },
+    {
+        "id": "7b328a5c-7192-43bb-8ad3-ed414f33a80e",
+        "name": "Other"
+    },
+    {
+        "id": "e8cfc79b-7139-4275-8b54-79d62478893d",
+        "name": "Human"
+    }
+  ]
+}
